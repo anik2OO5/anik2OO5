@@ -2,13 +2,13 @@
 
 🚀 **Aspiring Software Developer | Data Scientist | Tech Enthusiast**
 
-I’m a 2nd-year **B.Tech CSE (Data Science)** student at **Techno Main Salt Lake**, passionate about building impactful web applications, exploring AI/ML, and mastering data science.  
+I’m a 3rd-year **B.Tech CSE (Data Science)** student at **Techno Main Salt Lake**, passionate about building impactful web applications, exploring AI/ML, and mastering data science.  
 I’m on a mission to become a **pro web developer** in the next 6 months and continuously push my boundaries in coding, problem-solving, and innovation.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript, Python, C++
+- **Languages:** HTML, CSS, JavaScript, Python, C, JAVA
 - **Web Development:** React.js, Tailwind CSS, Node.js (learning)
 - **Data Science & AI:** Pandas, NumPy, Matplotlib, scikit-learn
 - **Databases:** MySQL, MongoDB
